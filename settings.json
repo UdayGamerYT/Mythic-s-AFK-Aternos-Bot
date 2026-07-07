@@ -1,14 +1,14 @@
 {
   "name": "AFK Bot",
   "bot-account": {
-    "username": "Slobot00",
+    "username": "Mythic_Ka_bot",
     "password": "",
     "type": "offline"
   },
   "server": {
     "ip": "MythicalWarrior43.aternos.me",
     "port": 40292,
-    "version": "",
+    "version": "26.1.2",
     "try-creative": false
   },
   "position": {
